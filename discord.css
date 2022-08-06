@@ -44,7 +44,6 @@
     font-weight: bold;
 }
 
-
 .n-list>ul>li:hover{
     cursor: pointer;
     color: rgb(3, 0, 156);
@@ -107,7 +106,6 @@ p{
     left: 30px;
     padding: auto;
 }
-
 
 .btm img{
     width: 25px;
